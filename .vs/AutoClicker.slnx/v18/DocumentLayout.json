@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcos\\source\\repos\\AutoClicker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF9D447-8C6E-B208-7A20-8C3CBD28B350}|AutoClicker\\AutoClicker.csproj|c:\\users\\marcos\\source\\repos\\autoclicker\\autoclicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF9D447-8C6E-B208-7A20-8C3CBD28B350}|AutoClicker\\AutoClicker.csproj|solutionrelative:autoclicker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcos\\source\\repos\\AutoClicker\\AutoClicker\\Program.cs",
+              "RelativeDocumentMoniker": "AutoClicker\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcos\\source\\repos\\AutoClicker\\AutoClicker\\Program.cs",
+              "RelativeToolTip": "AutoClicker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T17:01:53.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
